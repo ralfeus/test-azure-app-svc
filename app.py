@@ -1,4 +1,4 @@
-import flask
+from flask import Flask
 
 app = Flask("MyApp at Azure")
 
